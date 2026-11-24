@@ -63,12 +63,6 @@ echo
 echo "############  8. Reaction-type breakdown  ############"
 python scripts/09_reaction_type_breakdown.py
 
-echo
-echo "############  9. Figures  ############"
-python scripts/08_make_figures.py
-
-echo
-echo "############  Done  ############"
 echo "Results and per-sample predictions: results/"
 echo "Figures                           : figures/"
 echo "Checkpoints                       : checkpoints/"
