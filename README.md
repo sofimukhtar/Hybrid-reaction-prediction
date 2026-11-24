@@ -77,6 +77,8 @@ print(paired_bootstrap_test(
 
 If Hugging Face is unreachable, pass `--local-json` with a downloaded copy to `scripts/01_prepare_data.py`.
 
+## Citation
+
 ## License
 
 MIT — see `LICENSE`.
